@@ -1,0 +1,31 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1697561481626,1607,Contact,200,OK,Thread Group 1-10,text,true,,80337,124,10,10,https://lifecharger.eu/contact/,965,0,700
+1697561481418,1821,Contact,200,OK,Thread Group 1-8,text,true,,80337,124,10,10,https://lifecharger.eu/contact/,1173,0,907
+1697561481524,1736,Contact,200,OK,Thread Group 1-9,text,true,,80337,124,10,10,https://lifecharger.eu/contact/,1077,0,802
+1697561481022,2264,Contact,200,OK,Thread Group 1-4,text,true,,80337,124,10,10,https://lifecharger.eu/contact/,1590,0,1305
+1697561481122,2181,Contact,200,OK,Thread Group 1-5,text,true,,80337,124,10,10,https://lifecharger.eu/contact/,1504,0,1204
+1697561480874,2431,Contact,200,OK,Thread Group 1-2,text,true,,80337,124,10,10,https://lifecharger.eu/contact/,1764,0,1454
+1697561481318,2005,Contact,200,OK,Thread Group 1-7,text,true,,80337,124,10,10,https://lifecharger.eu/contact/,1347,0,1009
+1697561480919,2429,Contact,200,OK,Thread Group 1-3,text,true,,80337,124,10,10,https://lifecharger.eu/contact/,1760,0,1408
+1697561481218,2147,Contact,200,OK,Thread Group 1-6,text,true,,80337,124,10,10,https://lifecharger.eu/contact/,1475,0,1110
+1697561480868,2512,Contact,200,OK,Thread Group 1-1,text,true,,80337,124,10,10,https://lifecharger.eu/contact/,1833,0,1458
+1697561483238,276,Blog,200,OK,Thread Group 1-10,text,true,,72454,121,10,10,https://lifecharger.eu/blog/,239,0,0
+1697561483262,345,Blog,200,OK,Thread Group 1-9,text,true,,72454,121,10,10,https://lifecharger.eu/blog/,297,0,0
+1697561483287,361,Blog,200,OK,Thread Group 1-4,text,true,,72454,121,10,10,https://lifecharger.eu/blog/,325,0,0
+1697561483306,403,Blog,200,OK,Thread Group 1-2,text,true,,72454,121,10,10,https://lifecharger.eu/blog/,350,0,0
+1697561483304,404,Blog,200,OK,Thread Group 1-5,text,true,,72454,121,10,10,https://lifecharger.eu/blog/,350,0,0
+1697561483324,426,Blog,200,OK,Thread Group 1-7,text,true,,72454,121,10,10,https://lifecharger.eu/blog/,391,0,0
+1697561483366,456,Blog,200,OK,Thread Group 1-6,text,true,,72454,121,10,10,https://lifecharger.eu/blog/,423,0,0
+1697561483382,481,Blog,200,OK,Thread Group 1-1,text,true,,72454,121,10,10,https://lifecharger.eu/blog/,446,0,0
+1697561483242,665,Blog,200,OK,Thread Group 1-8,text,true,,72454,121,10,10,https://lifecharger.eu/blog/,287,0,0
+1697561483516,720,HTTP Request,200,OK,Thread Group 1-10,text,true,,143576,122,10,10,https://lifecharger.eu/about/,353,0,0
+1697561483609,658,HTTP Request,200,OK,Thread Group 1-9,text,true,,143576,122,9,9,https://lifecharger.eu/about/,300,0,0
+1697561483650,634,HTTP Request,200,OK,Thread Group 1-4,text,true,,143576,122,8,8,https://lifecharger.eu/about/,290,0,0
+1697561483710,585,HTTP Request,200,OK,Thread Group 1-2,text,true,,143576,122,7,7,https://lifecharger.eu/about/,274,0,0
+1697561483713,587,HTTP Request,200,OK,Thread Group 1-5,text,true,,143576,122,6,6,https://lifecharger.eu/about/,332,0,0
+1697561483752,618,HTTP Request,200,OK,Thread Group 1-7,text,true,,143576,122,5,5,https://lifecharger.eu/about/,385,0,0
+1697561483865,593,HTTP Request,200,OK,Thread Group 1-1,text,true,,143576,122,4,4,https://lifecharger.eu/about/,354,0,0
+1697561483824,801,HTTP Request,200,OK,Thread Group 1-6,text,true,,143576,122,3,3,https://lifecharger.eu/about/,574,0,0
+1697561483911,769,HTTP Request,200,OK,Thread Group 1-8,text,true,,143576,122,2,2,https://lifecharger.eu/about/,336,0,0
+1697561483349,2309,Blog,200,OK,Thread Group 1-3,text,true,,72454,121,1,1,https://lifecharger.eu/blog/,410,0,0
+1697561485660,856,HTTP Request,200,OK,Thread Group 1-3,text,true,,143576,122,1,1,https://lifecharger.eu/about/,215,0,0
